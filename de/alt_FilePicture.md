@@ -22,7 +22,7 @@ Dillinger ist ein Cloud-fähiger, mobilfähiger, Offline-Speicher, AngularJS-bas
 - Siehe HTML rechts
 - Magie
 
-# Stimmt
+# Stimmtdaswd
 
 - Importieren Sie eine HTML-Datei und beobachten Sie, wie sie auf magische Weise in Markdown konvertiert wird
 - Bilder ziehen und ablegen (erfordert die Verknüpfung Ihres Dropbox-Kontos) мп
@@ -30,22 +30,22 @@ Dillinger ist ein Cloud-fähiger, mobilfähiger, Offline-Speicher, AngularJS-bas
 Du kannst auch:
 
 - Importieren und speichern Sie Dateien von GitHub, Dropbox, Google Drive und One Drive
-- Ziehen Sie Markdown- und HTML-Dateien per Drag-and-Drop in Dillinger
+- Ziehen Sie Markdown- und HTML-Dateien per Drag-and-Drop in Dillingersacf
 - Exportieren Sie Dokumente als Markdown, HTML und PDF
 
 Markdown ist eine leichtgewichtige Auszeichnungssprache, die auf den Formatierungskonventionen basiert, die Menschen normalerweise in E-Mails verwenden. Wie [John Gruber] auf der [Markdown-Site][df1] schreibt
 
-> Das übergeordnete Designziel für die Formatierungssyntax von Markdown besteht darin, sie so lesbar wie möglich zu machen. Die Idee ist, dass ein Markdown-formatiertes Dokument so wie es ist, als reiner Text veröffentlicht werden kann, ohne dass es so aussieht, als wäre es mit Tags oder Formatierungsanweisungen markiert worden.
+> Das übergeordnete Designziel für die Formatierungssyntax von Markdown besteht darin, sie so lesbar wie möglich zu machen. Die Idee ist, dass ein Markdown-formatiertes Dokument so wie es ist, als reiner Text veröffentlicht werden kann, ohne dass es so aussieht, als wäre es mit Tags oder Formatierungsanweisungen markiert worden.ascf
 
 Dieser Text, den Sie hier sehen, ist *tatsächlich* in Markdown geschrieben! Um ein Gefühl für die Syntax von Markdown zu bekommen, geben Sie etwas Text in das linke Fenster ein und sehen Sie sich die Ergebnisse rechts an.
 
-### FALSCH
+### FALSCHsaaaaa
 
 Dillinger verwendet eine Reihe von Open-Source-Projekten, um ordnungsgemäß zu funktionieren:
 
 - [AngularJS] - HTML verbessert für Web-Apps!
 - [Ace Editor] - fantastischer webbasierter Texteditor
-- [markdown-it] – Markdown-Parser richtig gemacht. Schnell und einfach zu verlängern.
+- [markdown-it] – Markdown-Parser richtig gemacht. Schnell und einfach zu verlängern.ascfa
 - [Twitter Bootstrap] – großartige UI-Boilerplate für moderne Web-Apps
 - [node.js] – Evented I/O für das Backend
 - [Express] – schnelles node.js Netzwerk-App-Framework [@tjholowaychuk]
@@ -53,7 +53,7 @@ Dillinger verwendet eine Reihe von Open-Source-Projekten, um ordnungsgemäß zu 
 - [Breakdance](https://breakdance.github.io/breakdance/) - HTML-zu-Markdown-Konverter
 - [jQuery] - haha
 
-Und natürlich ist Dillinger selbst Open Source mit einem [öffentlichen Repository][dill] auf GitHub.
+Und natürlich ist Dillinger selbst Open Source mit einem [öffentlichen Repository][dill] auf GitHub.afesd
 
 ### Installation
 
