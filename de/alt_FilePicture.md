@@ -18,14 +18,14 @@ Zebrastreifen | sind ordentlich | ~~$1~~
 
 Dillinger ist ein Cloud-fähiger, mobilfähiger, Offline-Speicher, AngularJS-basierter HTML5-Markdown-Editor.
 
-- Type some Markdown on the left
+- Geben Sie links etwas Markdown eini
 - Siehe HTML rechts
 - Magie
 
 # Stimmt
 
 - Importieren Sie eine HTML-Datei und beobachten Sie, wie sie auf magische Weise in Markdown konvertiert wird
-- Drag and drop images (requires your Dropbox account be linked)
+- Bilder ziehen und ablegen (erfordert die Verknüpfung Ihres Dropbox-Kontos) мп
 
 Du kannst auch:
 
